@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Agentic AI
 - 🧑‍💼 I'm currently working on a notation-cloud
 
-## Completed Projects:
+### Completed Projects:
   * Chess Notation-Cloud (Flask) 
       - Website for school chess team notation storage (Live) 
   * Country Bomb (Python)
