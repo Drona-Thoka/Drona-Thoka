@@ -20,7 +20,9 @@
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:thokadrona@gmail.com) - `thokadrona@gmail.com` \
 ![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white) - `drona_thoka7408` \
 ![Snapchat](https://img.shields.io/badge/-Snapchat-FFFC00?style=flat&logo=snapchat&logoColor=000000) - `cyberflare7408`      
-![Chess.com](https://img.shields.io/badge/-Chess.com-6AA84F?style=flat&logo=chess.com&logoColor=white) - `CyberFlare7408`
+![Chess.com](https://img.shields.io/badge/-Chess.com-6AA84F?style=flat&logo=chess.com&logoColor=white) - `CyberFlare7408`  
+![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white) - `linkedin.com/in/drona-thoka-358257323`  
+
 
 
 
