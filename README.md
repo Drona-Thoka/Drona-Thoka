@@ -1,3 +1,4 @@
+### Summary:
 - 🏫 Waubonsie Valley High School (Illinois)
 - 👀 I’m interested in AI / ML
 - 🌱 I’m currently learning Agentic AI
