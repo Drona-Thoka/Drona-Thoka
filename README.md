@@ -16,12 +16,12 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
   
 ### Links:
+![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white) - `linkedin.com/in/drona-thoka-358257323`    
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)]() - `CyberFlare7408` \
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:thokadrona@gmail.com) - `thokadrona@gmail.com` \
 ![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white) - `drona_thoka7408` \
 ![Snapchat](https://img.shields.io/badge/-Snapchat-FFFC00?style=flat&logo=snapchat&logoColor=000000) - `cyberflare7408`      
-![Chess.com](https://img.shields.io/badge/-Chess.com-6AA84F?style=flat&logo=chess.com&logoColor=white) - `CyberFlare7408`  
-![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white) - `linkedin.com/in/drona-thoka-358257323`  
+![Chess.com](https://img.shields.io/badge/-Chess.com-6AA84F?style=flat&logo=chess.com&logoColor=white) - `CyberFlare7408`    
 
 
 
