@@ -21,7 +21,7 @@
 ![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white) - `linkedin.com/in/drona-thoka-358257323`    
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)]() - `CyberFlare7408` \
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:thokadrona@gmail.com) - `thokadrona@gmail.com` \
-![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white) - `drona_thoka7408` \
+![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white) - `drona_thoka7408` 
 
 
 
