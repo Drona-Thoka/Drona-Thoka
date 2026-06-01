@@ -7,6 +7,9 @@
 <hr>
 
 ### Completed Projects:
+  * Multi-Turn LLM Systems for Diagnostic Decision-Making: Considerations, Biases, and Challenges
+    - Poster at GenAI4Health + MTI-LLM @ NeurIPS 2025
+    - https://openreview.net/forum?id=It7AgR3A9H#discussion
   * Chess Notation-Cloud (Flask) 
       - Website for school chess team notation storage (Live) 
 
