@@ -2,7 +2,7 @@
 - 🏫 Waubonsie Valley High School (Illinois)
 - 👀 I’m interested in AI / ML
 - 🌱 I’m currently learning Agentic AI
-- 🧑‍💼 I'm currently working on a notation-cloud
+- 🧑‍💼 I'm currently working on a meta-agent project
 
 <hr>
 
