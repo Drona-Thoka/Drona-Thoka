@@ -7,6 +7,8 @@
 <hr>
 
 ### Completed Projects:
+  * ICTM Trainer (Flask)
+    - Website for Illinois math team training (Live)
   * Multi-Turn LLM Systems for Diagnostic Decision-Making: Considerations, Biases, and Challenges
     - Poster at GenAI4Health + MTI-LLM @ NeurIPS 2025
     - https://openreview.net/forum?id=It7AgR3A9H#discussion
