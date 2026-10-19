@@ -11,7 +11,6 @@
     - Poster at IAEval @ NeurIPS 2026
     - https://openreview.net/forum?id=KBFxkm2o7e&referrer=%5Bthe%20profile%20of%20Drona%20Thoka%5D(%2Fprofile%3Fid%3D~Drona_Thoka1)
     - Solo author
- 
   * Multi-Turn LLM Systems for Diagnostic Decision-Making: Considerations, Biases, and Challenges
     - Poster at GenAI4Health + MTI-LLM @ NeurIPS 2025
     - https://openreview.net/forum?id=It7AgR3A9H#discussion
