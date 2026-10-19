@@ -21,7 +21,6 @@
     - Most collaborative hack @ AEC-Tech+ 2026
   * ICTM Trainer (Flask)
     - Website for Illinois math team training (Live)
-    - https://openreview.net/forum?id=KBFxkm2o7e&referrer=%5Bthe%20profile%20of%20Drona%20Thoka%5D(%2Fprofile%3Fid%3D~Drona_Thoka1)
   * Chess Notation-Cloud (Flask) 
       - Website for school chess team notation storage (Live) 
 
