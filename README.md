@@ -16,7 +16,7 @@
     - Poster at GenAI4Health + MTI-LLM @ NeurIPS 2025
     - https://openreview.net/forum?id=It7AgR3A9H#discussion
       
-### Completed Projects:
+### Completed SWE Projects:
   * Tekt
     - Agentic text-ifc generation
     - Most collaborative hack @ AEC-Tech+ 2026
