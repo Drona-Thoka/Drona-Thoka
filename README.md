@@ -16,7 +16,7 @@
     - https://openreview.net/forum?id=It7AgR3A9H#discussion
       
 ### Completed SWE Projects:
-  * Tekt
+  * Text-to-IFC
     - Agentic text-ifc generation
     - Most collaborative hack @ AEC-Tech+ 2026
   * ICTM Trainer (Flask)
