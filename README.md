@@ -1,8 +1,8 @@
 ### Summary:
 - 🏫 Waubonsie Valley High School (Illinois)
 - 👀 I’m interested in AI / ML
-- 🌱 I’m currently learning Agentic AI
-- 🧑‍💼 I'm currently working on a meta-agent project
+- 🌱 I’m currently learning random things
+- 🧑‍💼 I'm currently working on random things
 
 <hr>
 
