@@ -1,8 +1,8 @@
 ### Summary:
 - 🏫 Waubonsie Valley High School (Illinois)
 - 👀 I’m interested in AI / ML
-- 🌱 I’m currently learning random things
-- 🧑‍💼 I'm currently working on random things
+- 🌱 I’m currently learning GenAI
+- 🧑‍💼 I'm currently working on surviving college apps
 
 <hr>
 
@@ -13,6 +13,7 @@
     - Solo author
   * Multi-Turn LLM Systems for Diagnostic Decision-Making: Considerations, Biases, and Challenges
     - Poster at GenAI4Health + MTI-LLM @ NeurIPS 2025
+    - 4 citations
     - https://openreview.net/forum?id=It7AgR3A9H#discussion
       
 ### Completed SWE Projects:
