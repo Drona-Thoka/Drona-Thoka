@@ -6,7 +6,7 @@
 
 <hr>
 
-### Completed Research Projects:
+### Completed Research Papers:
   * An Evaluation of Synchronization and Adaptive Routing Performance in LLM Multi-Agent Systems for Clinical Diagnosis
     - Poster at IAEval @ NeurIPS 2026
     - https://openreview.net/forum?id=KBFxkm2o7e&referrer=%5Bthe%20profile%20of%20Drona%20Thoka%5D(%2Fprofile%3Fid%3D~Drona_Thoka1)
